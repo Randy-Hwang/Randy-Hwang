@@ -17,10 +17,9 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
 
+ 🌈 출생부터 고등학교까지 대구에서 자랐습니다. Born in Daegu, South Korea!
 
  📚 연세대학교 신촌캠퍼스에 *__재학중__* 입니다. (2020 ~)
-
-  - 졸업과 동시에 or 졸업보다 먼저(가능하다면!) 커리어 시작을 위해 준비하고 있습니다!
   
  📫 Contact / Personal Blog
 

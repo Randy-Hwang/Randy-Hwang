@@ -12,13 +12,15 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
 
-💻 곧 배울, 배우고싶은 / What I want to study </br>
+💻 곧 배울, 배우고싶은 / What I want to(will) study </br>
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
 
  🌈 출생부터 고등학교까지 대구에서 자랐습니다. </br>
-   Born in Daegu, South Korea!
+  지금은 서울에 거주중입니다.</br>
+   Born in Daegu, South Korea! </br>
+   Now : Live in Seoul, South Korea.
 
  📚 연세대학교 신촌캠퍼스에 *__재학중__* 입니다. (2020 ~)
   

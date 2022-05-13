@@ -5,6 +5,14 @@
 > 저는 황덕구이고, 프론트엔드를 꿈꾸고 있습니다.
 >> I'm Randy, studying to work in Frontend Developer.
 
+📫 Contact / Personal Blog
+
+  - Email : duckguuus@gmail.com
+
+  - [Personal Blog(Velog)](https://velog.io/@duckgus)
+ 
+ 
+
 🦅 배우고 있는 / What I'm Learning </br>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
@@ -24,13 +32,6 @@
 
  📚 연세대학교 신촌캠퍼스에 *__재학중__* 입니다. (2020 ~)
   
- 📫 Contact / Personal Blog
-
-  - Email : duckguuus@gmail.com
-
-  - [Personal Blog(Velog)](https://velog.io/@duckgus)
-
-
 
 <!---
 Randy-Hwang/Randy-Hwang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -23,10 +23,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
 
-### 🌈 출생부터 고등학교까지 대구에서 자랐습니다.
-  지금은 서울에 거주중입니다.</br>
-   Born in Daegu, South Korea! </br>
-   Now : Live in Seoul, South Korea.
+### 🌈 
 
 ### 📚 연세대학교 신촌캠퍼스에 *__재학중__* 입니다. (2020 ~)
   

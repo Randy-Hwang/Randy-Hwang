@@ -2,7 +2,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/99023957/166260800-7a7adcc7-a208-441f-b8ad-f970bc429f89.jpg" width="50%" height="50%"></img>
 
-### 저는 황덕구이고, 프론트엔드를 꿈꾸고 있습니다.
+### 프론트엔드를 꿈꾸는 개발자입니다. 황덕구라고 불러주세요!
 ### I'm Duckgu, studying to work in Frontend Developer.
 
 
